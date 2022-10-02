@@ -1,0 +1,18 @@
+.header-main{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 10px;
+    background-color: black;
+    color: white;
+}
+.head-Text{
+    font-size: 50px;
+}
+.ul-main{
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    gap: 5px;
+    align-items: center;
+}
