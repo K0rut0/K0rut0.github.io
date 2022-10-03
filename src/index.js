@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import Header from './modules/Header.js';
 import Main from './modules/Main.js';
+import Skills from './modules/Skills';
 import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
@@ -10,6 +11,7 @@ root.render(
   <React.StrictMode>
     <Header />
     <Main />
+    <Skills />
   </React.StrictMode>
 );
 
