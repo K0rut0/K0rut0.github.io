@@ -3,10 +3,12 @@
     text-align: justify;
     max-width: 80vw;
     font-size: 20px;
+    max-width: 500px;
 }
 .main-div{
     display: flex;
     gap: 5vw;
     padding: 5vw;
     align-items: center;
+    justify-content: center;
 }
