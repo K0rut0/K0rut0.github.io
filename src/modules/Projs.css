@@ -1,0 +1,33 @@
+.projMain{
+    display: flex;
+
+    align-items: center;
+    flex-direction: column;
+}
+.skillHead{
+    max-width: 200px;
+    justify-content: center;
+}
+.skillHead > h1 {
+    color: white;
+}
+.skillCont{
+    display: flex;
+    flex-direction: row;
+}
+.imgCont{
+    max-width: 250px;
+    max-height: 250px;
+}
+.ProjCont{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    max-width: 250px;
+    color: white;
+    gap: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h3{
+    justify-self: center;
+}
