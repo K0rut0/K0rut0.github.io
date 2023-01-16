@@ -2,7 +2,7 @@ import Github from '../assets/github.png'
 
 function Projects(){
     return(
-        <div className="flex justify-center bg-slate-300">
+        <div className="flex justify-center bg-slate-300" id='projects'>
             <div className="flex flex-col bg-matteBlack rounded-t-3xl h-fit w-full justify-center items-center gap-y-10 pb-16">
                 <div className="flex justify-center p-5 font-public font-extrabold text-white text-3xl">
                     RECENT PROJECTS
@@ -35,7 +35,7 @@ function Projects(){
                 <div className='flex justify-center font-public text-white text-3xl font-extrabold'>
                     CONTACTS
                 </div>
-                <div className="flex flex-col bg-white rounded-3xl w-[800px] h-96 justify-center items-center gap-y-10">
+                <div className="flex flex-col bg-white rounded-3xl w-[800px] h-96 justify-center items-center gap-y-10" id='contacts'>
                     <div className='font-public font-bold text-xl flex gap-x-3'>
                         Email: <p className='font-public font-normal'> someemail@domain.com</p>
                     </div>

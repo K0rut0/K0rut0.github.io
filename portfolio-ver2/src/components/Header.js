@@ -5,10 +5,10 @@ function Header(){
         KORUTO.DEV&lt;&gt;
       </div>
       <div className="flex flex-row font-public text-3xl space-x-16">
-        <button className="no-underline hover:underline hover:font-bold decoration-8 decoration-indigo-500">ABOUT</button>
-        <button className="no-underline hover:underline hover:font-bold decoration-8 decoration-indigo-500">SKILLS</button>
-        <button className="no-underline hover:underline hover:font-bold decoration-8 decoration-indigo-500">PROJECTS</button>
-        <button className="no-underline hover:underline hover:font-bold decoration-8 decoration-indigo-500">CONTACTS</button>
+        <a href="#"><button className="no-underline hover:underline hover:font-bold decoration-8 decoration-indigo-500">ABOUT</button></a>
+        <a href="#skills"><button className="no-underline hover:underline hover:font-bold decoration-8 decoration-indigo-500">SKILLS</button></a>
+        <a href="#projects"><button className="no-underline hover:underline hover:font-bold decoration-8 decoration-indigo-500">PROJECTS</button></a>
+        <a href="#contacts"><button className="no-underline hover:underline hover:font-bold decoration-8 decoration-indigo-500">CONTECTS</button></a>
       </div>
     </div>
   )

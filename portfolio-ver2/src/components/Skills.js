@@ -3,7 +3,7 @@ import ReactLogo from '../assets/React.png'
 import JsLogo from '../assets/JS.png'
 function Skills(){
     return(
-        <div className="bg-slate-100 h-auto p-0 m-0">
+        <div className="bg-slate-100 h-auto p-0 m-0" id='skills'>
             <div className=" flex rounded-t-3xl bg-gray-300 h-40 p-10 font-public text-4xl font-extrabold justify-center">
                 SKILLS
             </div>
