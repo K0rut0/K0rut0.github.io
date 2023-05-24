@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a7c78010.css",
+    "main.js": "/static/js/main.26b77df3.js",
+    "static/media/Kannasip.gif": "/static/media/Kannasip.9b979cf3ac11921c1bad.gif",
+    "static/media/Clang.png": "/static/media/Clang.faa67b97f574421ee841.png",
+    "static/media/React.png": "/static/media/React.b8bb72c8776b21a48a72.png",
+    "static/media/JS.png": "/static/media/JS.e19a09313f5581ed23fd.png",
+    "static/media/github.png": "/static/media/github.6606947968c6e9a68557.png",
+    "index.html": "/index.html",
+    "main.a7c78010.css.map": "/static/css/main.a7c78010.css.map",
+    "main.26b77df3.js.map": "/static/js/main.26b77df3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7c78010.css",
+    "static/js/main.26b77df3.js"
+  ]
+}
