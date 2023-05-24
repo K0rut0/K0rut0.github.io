@@ -8,7 +8,7 @@ function Header(){
         <a href="#"><button className="no-underline hover:underline hover:font-bold decoration-8 decoration-indigo-500">ABOUT</button></a>
         <a href="#skills"><button className="no-underline hover:underline hover:font-bold decoration-8 decoration-indigo-500">SKILLS</button></a>
         <a href="#projects"><button className="no-underline hover:underline hover:font-bold decoration-8 decoration-indigo-500">PROJECTS</button></a>
-        <a href="#contacts"><button className="no-underline hover:underline hover:font-bold decoration-8 decoration-indigo-500">CONTECTS</button></a>
+        <a href="#contacts"><button className="no-underline hover:underline hover:font-bold decoration-8 decoration-indigo-500">CONTACTS</button></a>
       </div>
     </div>
   )
