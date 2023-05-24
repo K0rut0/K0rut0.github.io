@@ -8,10 +8,10 @@ function Main(){
                 <img className='rounded-2xl' src={Kanna} alt='kanna sipping'/>
                 <div className='flex flex-col content-center space-y-5'>
                     <div className='font-public text-4xl font-extrabold'>
-                        HELLO! I AM KORUTO
+                        HELLO! I AM KURT
                     </div>
                     <div className='break-words font-public text-3xl font-normal'>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer non urna eleifend lectus vulputate cursus non et ligula.
+                        Currently a first year student studying Computer Science in the Philippines.
                     </div>  
                 </div>
             </div>
