@@ -17,7 +17,7 @@ function Skills(){
                             C
                         </div>
                         <div className='break-words font-public font-normal text-xl text-center'>
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer non urna eleifend lectus vulputate cursus non et ligula.
+                            Learned C in programming class at college. Knowledge is basic.
                         </div>
                     </div>
                 </div>
@@ -30,7 +30,7 @@ function Skills(){
                             React
                         </div>
                         <div className='break-words font-public font-normal text-xl text-center'>
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer non urna eleifend lectus vulputate cursus non et ligula.
+                            I possess some basic react skills. Used this to build this portfolio and I am planning on diving deeper into it. 
                         </div>
                     </div>
                 </div>
@@ -43,7 +43,7 @@ function Skills(){
                             Javascript
                         </div>
                         <div className='break-words font-public font-normal text-xl text-center'>
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer non urna eleifend lectus vulputate cursus non et ligula.
+                            My first programming language. I have a decent grasp on the fundamentals such as asynchronous functions with await or async.
                         </div>
                     </div>
                 </div>
