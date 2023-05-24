@@ -15,7 +15,7 @@ function Projects(){
                         <div className="font-public break-words text-center">
                             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam varius, metus ut scelerisque iaculis, sapien erat pulvinar nunc, sed ornare leo nisl in mauris.
                         </div>
-                        <a href="#">
+                        <a href="#projects">
                             <img src={Github} alt='github logo' className='w-[50px]'></img>
                         </a>
                     </div>
@@ -27,7 +27,7 @@ function Projects(){
                         <div className="font-public break-words text-center">
                             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam varius, metus ut scelerisque iaculis, sapien erat pulvinar nunc, sed ornare leo nisl in mauris.
                         </div>
-                        <a href="#">
+                        <a href="#projects">
                             <img src={Github} alt='github logo' className='w-[50px]'></img>
                         </a>
                     </div>
